@@ -23,6 +23,9 @@ Introducing TONNFTHub, a cutting-edge NFT marketplace forged on the TON network.
 
 🔒 **Security and Transparency**: Rest assured with the highest level of security and openness, thanks to the robust TON network and the Audited contracts used on our platform. Your TONs are in safe hands.
 
+
+## Demo Video
+
 ## Begin Your NFT Journey 🚀
 
 Kickstart your adventure in the world of NFTs with TONNFTHub by following these simple steps:
